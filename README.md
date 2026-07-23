@@ -56,7 +56,7 @@ A showcase of certifications, badges, and completed courses across Operational T
 
 ---
 
-## 🏭 Siemens OT
+## 🏭 Siemens OT Certificates
 * **Basics of Control Components** — [👁️ View Certificate](https://drive.google.com/file/d/1L4OEoqG7kRm-a4PfIBoZ36Wc4N_4i4KD/preview)
 * **Basics of PLCs (Programmable Logic Controllers)** — [👁️ View Certificate](https://drive.google.com/file/d/1UQVZgGRZdu3ma2Y3lIyObkJF2YHf0bjU/preview)
 * **Basics of Process Automation** — [👁️ View Certificate](https://drive.google.com/file/d/1R5ZE4ChcvojQFMs4GrxtNDqumf-0-Ikb/preview)
