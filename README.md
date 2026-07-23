@@ -61,21 +61,21 @@ A showcase of certifications, badges, and completed courses across Operational T
 
 ---
 
-## 🛤️ Tracks-CN OT
-* **[Course/Cert Title]** — [👁️ View Certificate](YOUR_LINK_HERE)
+## 🛤️ Tracks-CN OT Badge
+* **Cybersecurity for Robotics, Automation, and Mechatronics** — [👁️ View Badge](https://www.credly.com/badges/b44c226c-cb4f-4846-b8a8-9540f8a3f860)
 
 ---
 
-## 🐧 Linux Foundation OT
-* **[Course/Cert Title]** — [👁️ View Certificate](YOUR_LINK_HERE)
+## 🐧 Linux Foundation OT Certificate
+* **Creating Edge IoT Solutions with EdgeX Foundry (LFEL1003)** — [👁️ View Certificate](https://drive.google.com/file/d/1_vhEGFdEdiiug513YgMGwiiOGkxwvUrz/view?usp=drive_link)
 
 ---
 
-## 📜 LinkedIn Learning OT
-* **Operational Technology (OT) Cybersecurity Essentials: Defending Critical Infrastructure** — [👁️ View Certificate(https://drive.google.com/file/d/1Tix9ECiuKHlYStlsFpt8YPZHoSrzOymm/view?usp=drive_link)
+## 📜 LinkedIn Learning OT Certificate
+* **Operational Technology (OT) Cybersecurity Essentials: Defending Critical Infrastructure** — [👁️ View Certificate](https://drive.google.com/file/d/1Tix9ECiuKHlYStlsFpt8YPZHoSrzOymm/view?usp=drive_link)
 
 
 ---
 
-## ⚡ 4.0 Solutions OT
+## ⚡ 4.0 Solutions OT Certificate
 * **IIoT Mini-Course** — [👁️ View Certificate](https://drive.google.com/file/d/18ev0u4asEraLOxVPCGuy5kbxHnlnCE41/view?usp=drive_link)
