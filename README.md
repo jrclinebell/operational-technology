@@ -13,7 +13,7 @@ A showcase of certifications, badges, and completed courses across Operational T
 
 ## 🛡️ OPSWAT OT Badges
 * **Siemens PLC Secure Configuration Expert (PSCE)** — [👁️ View Badge](https://www.credly.com/badges/b6260337-cadf-4270-888e-c5501d7f4814)
-* **OPSWAT Introduction to Critical Infrastructure Protection (ICIP)** — [👁️ View Badge](https://www.credly.com/badges/51a380af-74e5-481d-a018-f450cf2e3383)
+* **Introduction to Critical Infrastructure Protection (ICIP)** — [👁️ View Badge](https://www.credly.com/badges/51a380af-74e5-481d-a018-f450cf2e3383)
 
 ---
 
