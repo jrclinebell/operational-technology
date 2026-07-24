@@ -79,5 +79,5 @@ A showcase of certifications, badges, and completed courses across Operational T
 
 ---
 
-## ⚡ 4.0 Solutions OT Certificate
-* **IIoT Mini-Course** — [👁️ View Certificate](https://drive.google.com/file/d/18ev0u4asEraLOxVPCGuy5kbxHnlnCE41/preview)
+## ⚡ 4.0 Solutions OT Credential
+* **IIoT Mini-Course** — [👁️ View Credential](https://www.credential.net/4aa85869-f1e2-4a18-bc14-4a8123e5f605#acc.SUWagBeZ)
