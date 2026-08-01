@@ -1,6 +1,6 @@
 # ⚙️ Operational Technology (OT) Credentials & Training
 
-A showcase of certifications, badges, and completed courses across Operational Technology, Industrial Control Systems (ICS), SCADA, Critical Infrastructure Protection (CIP), and Industrial Cybersecurity.
+A showcase of certifications, badges, and completed courses across Operational Technology, Industrial Control Systems (ICS), SCADA, Critical Infrastructure Protection (CIP), Edge Computing, and Industrial Cybersecurity.
 
 ---
 
