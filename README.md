@@ -23,7 +23,8 @@ A showcase of certifications, badges, and completed courses across Operational T
 
 ---
 
-## 🚨 TEEX OT Certificate
+## 🚨 TEEX OT Certificates
+* **MGT414 Critical Infrastructure Resilience and Community Lifelines** — [👁️ View Certificate](https://drive.google.com/file/d/1520EklHJCp7Ayf4KjIho-VvLsDoYozGS/preview)
 * **MGT452 Physical and Cybersecurity for Critical Infrastructure** — [👁️ View Certificate](https://drive.google.com/file/d/1NNxN_fBoaLaQ66Ai_HZehxk5_LTa5vjb/view?usp=drive_link)
 
 ---
