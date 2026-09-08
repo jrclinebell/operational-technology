@@ -71,7 +71,7 @@ A showcase of certifications, badges, and completed courses across Operational T
 ---
 
 ## 🐧 Linux Foundation OT Badge
-* **Creating Edge IoT Solutions with EdgeX Foundry (LFEL1003)** — [👁️ View Badge](https://www.credly.com/badges/c59d2da4-1bc6-46f5-8b4a-b37910ae4fe1)
+* **LFEL1003: Creating Edge IoT Solutions with EdgeX Foundry** — [👁️ View Badge](https://www.credly.com/badges/c59d2da4-1bc6-46f5-8b4a-b37910ae4fe1)
 
 ---
 
