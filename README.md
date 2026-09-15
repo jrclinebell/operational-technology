@@ -17,10 +17,10 @@ A showcase of certifications, badges, and completed courses across Operational T
 
 ---
 
-## 🌐 Zededa OT Badges and Certificate
+## 🌐 Zededa OT Badges
 * **ZEDEDA Certified Edge Computing Associate (ZCEA)** — [👁️ View Badge](https://www.credly.com/badges/86278666-eeaf-4186-b187-9d80145f8ba1)
 * **ZEDEDA Edge Orchestration Essentials** — [👁️ View Badge](https://www.credly.com/badges/80040aed-73e5-401a-9169-8ac2f105156f)
-* **ZEDEDA Certified Edge Administration Specialist (ZCES)** — [👁️ View Certificate](https://drive.google.com/file/d/1X6YM2x2C6aIa4EhoYlbQgARvZXOMO3b1/preview)
+* **ZEDEDA Certified Edge Administration Specialist (ZCES)** — [👁️ View Badge](https://www.credly.com/badges/36d55db9-b256-400e-b3ed-b44cc5ccbcc6)
 
 ---
 
