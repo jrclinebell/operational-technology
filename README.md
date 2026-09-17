@@ -30,6 +30,11 @@ A showcase of certifications, badges, and completed courses across Operational T
 
 ---
 
+## ⛰️ FEMA OT Certificate
+* **IS-913 Critical Infrastructure Security and Resilience** — [👁️ View Certificate](https://drive.google.com/file/d/1ar2_Sw6ewlnmIfhqgNuT106zAGQDQJZH/preview)
+
+---
+
 ## 🛡️ CISA OT Certificates
 
 * **100W Industrial Control Systems (ICS) Cybersecurity Practices** — [👁️ View Certificate](https://drive.google.com/file/d/1vtUsnKb4ewwmBsQLVSu2SRdGTJli3Sif/preview)
